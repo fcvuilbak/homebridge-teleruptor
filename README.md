@@ -1,4 +1,4 @@
-# Homebridge Relays
+# Homebridge Teleruptor
 
 Controls 4 channel relays with a Raspberry Pi using HomeKit.
 
